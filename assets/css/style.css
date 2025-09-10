@@ -588,7 +588,7 @@
     top: 0;
     left: 0;
     transform: translate(15px, -25px);
-    background: white; /* Change this to white */
+    background: transparent; /* Change this to white */
     border-radius: 14px;
     box-shadow: var(--shadow-1);
   }
